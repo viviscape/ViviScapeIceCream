@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="ViviScapeIceCream.apiservice" CodeBehind="apiservice.svc.cs" %>
